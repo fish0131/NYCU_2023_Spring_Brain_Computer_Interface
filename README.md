@@ -20,4 +20,4 @@ Reference:
 --- peak_alpha = the sum of frequency in alpha wave(8-13Hz)/the sum of the frequency in 3-30Hz  
 --- if (peak_alpha > threshold): action point to 1  
 --- else: action point to 0  
---- (0, 1) will be four combinations (forward, right, left, stop)
+--- (0, 1) will have four combinations (forward, right, left, stop)
