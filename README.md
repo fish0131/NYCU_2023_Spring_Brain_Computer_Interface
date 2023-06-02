@@ -16,4 +16,4 @@ Reference:
 ## Controlled car competition
 Reference:  
 1. SSVEP for BCI: https://github.com/HeosSacer/SSVEP-Brain-Computer-Interface/tree/master  
-2. 
+2. *Alpha wave*
