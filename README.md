@@ -25,6 +25,6 @@ else:
   action point to 0  
 ```
 - (0, 1) will have four combinations (forward, right, left, stop)
-- To implement this project: `python src/utils.py`
+- To implement this project: `python ./src/utils.py`
 
 
