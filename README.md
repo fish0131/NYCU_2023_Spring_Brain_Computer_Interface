@@ -14,7 +14,6 @@ Reference:
 1. Ravikiran Mane, Effie Chew, Karen Chua, Kai Keng Ang, Neethu Robinson, A.P. Vinod, Seong-Whan Lee, and Cuntai Guan, "FBCNet: An Efficient Multi-view Convolutional Neural Network for Brain-Computer Interface," arXiv preprint arXiv:2104.01233 (2021) https://arxiv.org/abs/2104.01233  
 2. https://github.com/ravikiran-mane/FBCNet/tree/master
 ## Controlled car competition
-Reference:  
 1. SSVEP for BCI: https://github.com/HeosSacer/SSVEP-Brain-Computer-Interface/tree/master  
 2. *Alpha wave*: action trigger  
 ```Python
